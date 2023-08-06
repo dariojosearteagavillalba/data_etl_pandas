@@ -21,7 +21,7 @@
 
    ![Alt text](/img/image-1.png)
 
-    la celda encargada de capturar los datos via API hace uso estas fechas dinamicas lo cual permite generar en nombre en funcion de la fecha 
+    la celda encargada de capturar los datos via API hace uso estas fechas dinamicas lo cual permite generar el nombre en funcion de las fechas
 
 
 
