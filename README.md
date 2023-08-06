@@ -15,11 +15,11 @@
     este notebook te permite crear de manera automatica las particiones de las fechas por perdiodo ejemplo 2022-12/
     en la cual se pueden almacenar todas las fechas por dias para este mes , puedes definir que periordo quieres crear 
 
-   ![Alt text](image.png) 
+   ![Alt text](/img/image.png) 
 
     estas fechas se reuitilizan en diferentes celdas con el fin de proporcionarle dinamicidad al notebook 
 
-   ![Alt text](image-1.png)
+   ![Alt text](/img/image-1.png)
 
     la celda encargada de capturar los datos via API hace uso estas fechas dinamicas lo cual permite generar en nombre en funcion de la fecha 
 
